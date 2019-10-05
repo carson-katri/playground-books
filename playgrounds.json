@@ -13,7 +13,7 @@
             "description": "Learn the basics of Swift 5.1's function builders",
             "contentIdentifier": "com.carsonkatri.playgrounds.functionbuilders",
             "contentVersion": "1.0",
-            "url": "books/Make a Function Builder.playgroundbook.zip",
+            "url": "https://github.com/carson-katri/playground-books/raw/master/books/Make%20a%20Function%20Builder.playgroundbook.zip",
             "publishedDate": "2017-11-13T21:13:57+00:00",
             "lastUpdatedDate": "2017-11-13T21:13:57+00:00",
             "thumbnailURL": "keypaths/thumbnail.png",
