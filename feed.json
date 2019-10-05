@@ -4,7 +4,7 @@
     "publisherName": "Carson Katri",
     "feedIdentifier": "com.carsonkatri.blog.playgrounds",
     "contactURL": "mailto:carson.katri@gmail.com",
-    "formatVersion": "1.0",
+    "formatVersion": "1.2",
     "documents": [
         {
             "title": "Make a Function Builder",
