@@ -2,7 +2,7 @@
     "title": "Carson Katri's Blog",
     "subtitle": "Playground Books based on the articles on \"carsonkatri.com\"",
     "publisherName": "Carson Katri",
-    "feedIdentifier": "com.carsonkatri.playgrounds",
+    "feedIdentifier": "com.carsonkatri.blog.playgrounds",
     "contactURL": "mailto:carson.katri@gmail.com",
     "formatVersion": "1.0",
     "documents": [
